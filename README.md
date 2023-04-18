@@ -1,1 +1,1 @@
-# ssl-bird-species-recogntion
+# ssl-bird-species-recognition
